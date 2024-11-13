@@ -216,8 +216,7 @@ def create_model(total_words, max_sequence_len):
 ![Screenshot 2024-11-11 105802](https://github.com/user-attachments/assets/701468ff-27e4-4bcf-b2fc-f71e79ec601e)
 
 ### 4. features_and_labels_dataset output
-![image](https://github.com/user-attachments/assets/5e113419-2016-45e4-bee7-803731b59a27)
-
+![image](https://github.com/user-attachments/assets/dff92f77-5baa-417d-9fa5-1619ef63e989)
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
 ![Screenshot 2024-11-11 105827](https://github.com/user-attachments/assets/55ddc72d-1b92-4572-b551-35f2e3a1bb4e)
